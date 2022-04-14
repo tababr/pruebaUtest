@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="co.com.choucair.certification.proyectobase.main" target="1.8" />
+      <module name="co.com.choucair.certification.proyectobase.test" target="1.8" />
+      <module name="co.com.choucair.certification.prueba.main" target="1.8" />
+      <module name="co.com.choucair.certification.prueba.test" target="1.8" />
+      <module name="pruebaUtest.main" target="1.8" />
+      <module name="pruebaUtest.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
